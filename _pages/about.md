@@ -24,10 +24,10 @@ Hi! I’m Xin Zheng (Amanda), a final-year Ph.D. student in the Faculty of Infor
 ## Experiences
 
 - [2021.07－2022.03] **Monash University, Melbourne, Australia**
-  - Sessional Teaching Associate with Information Technology Faculty Office
+  - Sessional Teaching Associate @ Faculty of Information Technology
 
 - [2020.05－2021.03] **AI Lab, Tencent, Shenzhen, China**
-  - Center of Computer Vision, Mentor: Dr. Yanbo Fan and Prof. Baoyuan Wu
+  - Research Intern @ Center of Computer Vision, Mentor: Dr. Yanbo Fan and Prof. Baoyuan Wu
 
 - [2018.01－2018.12] **Institute of Automation, Chinese Academy of Sciences, Beijing, China**
-  - National Laboratory of Pattern Recognition (TNT Group), Research Assistant Advisor: Prof. Ran He
+  - Research Assistant @ National Laboratory of Pattern Recognition (TNT Group), Advisor: Prof. Ran He
