@@ -12,7 +12,6 @@ Hi! I’m Xin Zheng (Amanda), a final-year Ph.D. student in the Faculty of Infor
 
 
 ## News！
----
 - [2023.09] Two works have been accepted by NeurIPS-2023!
 - [2023.09] New work arXiv "Towards Data-centric Graph Machine Learning: Review and Outlook"!
 - [2023.02] One work has been accepted by WWW-2023!
