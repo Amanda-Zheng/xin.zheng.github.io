@@ -20,3 +20,14 @@ Hi! I’m Xin Zheng (Amanda), a final-year Ph.D. student in the Faculty of Infor
 - [2023.02] One work has been accepted by WWW-2023 "Auto-HeG: Automated Graph Neural Network on Heterophilic Graphs"!
 - [2022.10] One work has been accepted by ICDM-2023 "Multi-Relational Graph Neural Architecture Search with Fine-grained Message Passing"!
 - [2022.02] arXiv survey work "Graph Neural Networks for Graphs with Heterophily: A Survey"!
+
+## Experiences
+
+- [2021.07－2022.03] **Monash University, Melbourne, Australia**
+  - Sessional Teaching Associate with Information Technology Faculty Office
+
+- [2020.05－2021.03] **AI Lab, Tencent, Shenzhen, China**
+  - Center of Computer Vision, Mentor: Dr. Yanbo Fan and Prof. Baoyuan Wu
+
+- [2018.01－2018.12] **Institute of Automation, Chinese Academy of Sciences, Beijing, China**
+  - National Laboratory of Pattern Recognition (TNT Group), Research Assistant Advisor: Prof. Ran He
