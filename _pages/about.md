@@ -22,12 +22,13 @@ Hi! I’m Xin Zheng (Amanda), a final-year Ph.D. student in the Faculty of Infor
 - [2022.02] arXiv survey work "Graph Neural Networks for Graphs with Heterophily: A Survey"!
 
 ## Experiences
-
-- [2021.07－2022.03] **Monash University, Melbourne, Australia**
+- [2023.04 ~ Present] **Griffith University, Gold Coast, Australia**
+  - Visiting Student & Reasearch Assistant @ School of Information and Communication Technology
+- [2021.07 ~ 2022.03] **Monash University, Melbourne, Australia**
   - Sessional Teaching Associate @ Faculty of Information Technology
 
-- [2020.05－2021.03] **AI Lab, Tencent, Shenzhen, China**
+- [2020.05 ~ 2021.03] **AI Lab, Tencent, Shenzhen, China**
   - Research Intern @ Center of Computer Vision, Mentor: Dr. Yanbo Fan and Prof. Baoyuan Wu
 
-- [2018.01－2018.12] **Institute of Automation, Chinese Academy of Sciences, Beijing, China**
+- [2018.01 ~ 2018.12] **Institute of Automation, Chinese Academy of Sciences, Beijing, China**
   - Research Assistant @ National Laboratory of Pattern Recognition (TNT Group), Advisor: Prof. Ran He
