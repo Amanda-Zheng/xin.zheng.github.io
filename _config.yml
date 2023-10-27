@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Xin Zheng (Amanda)"
-  avatar           : "profile.png"
+  avatar           : "person.png"
   bio              : "Ph.D.@ Monash University, working on Graph Machine Learning"
   location         : "Melbourne, Australia"
   employer         :
