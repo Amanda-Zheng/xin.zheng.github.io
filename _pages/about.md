@@ -12,7 +12,7 @@ Hi! I’m Xin Zheng (Amanda), a final-year Ph.D. student in the Faculty of Infor
 
 
 ## News！
-- [Upcoming] Invited to present the tutorial "Towards Data-centric Graph Machine Learning" in Australia Database Conference (ADC) 2023 in Melbourne, Australia.
+- [2023.11] Invited to present the tutorial "Towards Data-centric Graph Machine Learning" in Australia Database Conference (ADC) 2023 in Melbourne, Australia.
 - [2023.09] Two works have been accepted by NeurIPS-2023!
   - NeurIPS-2023 "Structure-free Graph Condensation: From Large-scale Graphs to Condensed Graph-free Data".
   - NeurIPS-2023 "GNNEvaluator: Evaluating GNN Performance On Unseen Graphs Without Labels". 
