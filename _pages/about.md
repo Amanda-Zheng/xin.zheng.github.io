@@ -8,14 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Xin Zheng (Amanda), a final-year Ph.D. student in the Faculty of Information Technology at Monash University, Australia. I’m co-advised by Prof. Shirui Pan and Prof. Chunyang Chen. I received my Bachelor's and Master's degrees from Dalian University of Technology in 2017 and 2020, respectively. My research interests mainly lie in Graph Data-centric Machine Learning, Graph Neural Networks, Graph Neural Architecture Search.
+Hi! I’m Xin Zheng (Amanda), a lecturer (a.k.a Assistant Professor) in the School of Information and Communication Technology, Griffith University, Australia. I finish my Ph.D. degree in the Faculty of Information Technology at Monash University, Australia, and I received my Bachelor's and Master's degrees from Dalian University of Technology in 2017 and 2020, respectively. My research interests mainly lie in Graph Data-centric Machine Learning, Graph Neural Networks, Graph Neural Architecture Search.
 
 
 ## News！
+- [2024.01] One work has been accepted by ICLR-2024 "Online Gnn Evaluation Under Test-time Graph Distribution Shifts"! [Spotlight]
 - [2023.11] Invited to present the tutorial "Towards Data-centric Graph Machine Learning" in Australia Database Conference (ADC) 2023 in Melbourne, Australia.
 - [2023.09] Two works have been accepted by NeurIPS-2023!
-  - NeurIPS-2023 "Structure-free Graph Condensation: From Large-scale Graphs to Condensed Graph-free Data".
-  - NeurIPS-2023 "GNNEvaluator: Evaluating GNN Performance On Unseen Graphs Without Labels". 
+  - [Spotlight] NeurIPS-2023 "Structure-free Graph Condensation: From Large-scale Graphs to Condensed Graph-free Data".
+  - NeurIPS-2023 "GNNEvaluator: Evaluating GNN Performance On Unseen Graphs Without Labels".
 - [2023.09] New work arXiv "Towards Data-centric Graph Machine Learning: Review and Outlook". 
 - [2023.02] One work has been accepted by WWW-2023 "Auto-HeG: Automated Graph Neural Network on Heterophilic Graphs"!
 - [2022.10] One work has been accepted by ICDM-2023 "Multi-Relational Graph Neural Architecture Search with Fine-grained Message Passing"!
@@ -28,7 +29,7 @@ Hi! I’m Xin Zheng (Amanda), a final-year Ph.D. student in the Faculty of Infor
   - Sessional Teaching Associate @ Faculty of Information Technology
 
 - [2020.05 ~ 2021.03] **AI Lab, Tencent, Shenzhen, China**
-  - Research Intern @ Center of Computer Vision, Mentor: Dr. Yanbo Fan and Prof. Baoyuan Wu
+  - Research Intern @ Center of Computer Vision
 
 - [2018.01 ~ 2018.12] **Institute of Automation, Chinese Academy of Sciences, Beijing, China**
-  - Research Assistant @ National Laboratory of Pattern Recognition (TNT Group), Advisor: Prof. Ran He
+  - Research Assistant @ National Laboratory of Pattern Recognition (TNT Group)
