@@ -83,7 +83,7 @@ author:
   name             : "Xin Zheng (Amanda)"
   avatar           : "person.png"
   bio              : # "Ph.D.@ Monash University, working on Graph Machine Learning"
-  location         : "Melbourne, Australia"
+  location         : # "Melbourne, Australia"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=WAl7OtMAAAAJ&hl=zh-CN"
